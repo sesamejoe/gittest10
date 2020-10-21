@@ -16,7 +16,6 @@ namespace gittest10
     {
       InitializeComponent();
       //条件1
-      //挑拣1
    
     }
   }
