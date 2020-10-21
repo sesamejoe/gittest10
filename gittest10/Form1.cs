@@ -16,6 +16,7 @@ namespace gittest10
     {
       InitializeComponent();
       //提交1
+      //提交2
     }
   }
 }
