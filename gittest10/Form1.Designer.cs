@@ -32,6 +32,7 @@
       this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
       this.Text = "Form1";
       //暂存
+      //还原2
     }
 
     #endregion
