@@ -15,6 +15,7 @@ namespace gittest10
     public Form1()
     {
       InitializeComponent();
+      //条件1
    
     }
   }
