@@ -15,12 +15,7 @@ namespace gittest10
     public Form1()
     {
       InitializeComponent();
-      //提交1
-      //提交2
-      //提交3
-      //重置之前的工作
-      //提交
-      //还原1
+   
     }
   }
 }
