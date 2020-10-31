@@ -16,6 +16,7 @@
       if (disposing && (components != null))
       {
         components.Dispose();
+                //挑拣2
       }
       base.Dispose(disposing);
     }
